@@ -17,5 +17,8 @@
     "url": "https://github.com/hellraze/hexlet-js/issues"
   },
   "homepage": "https://github.com/hellraze/hexlet-js#readme",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
