@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/hellraze/hexlet-js/issues"
   },
-  "homepage": "https://github.com/hellraze/hexlet-js#readme"
+  "homepage": "https://github.com/hellraze/hexlet-js#readme",
+  "keywords": []
 }
